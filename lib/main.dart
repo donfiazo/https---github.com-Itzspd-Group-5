@@ -17,7 +17,7 @@ class Group5App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Group 4 Firebase App',
+      title: 'Group 5 Firebase App',
       home: SignupScreen(),
     ); 
   }
