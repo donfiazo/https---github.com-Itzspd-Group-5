@@ -22,5 +22,3 @@ class Group5App extends StatelessWidget {
     ); 
   }
 }
-
-
